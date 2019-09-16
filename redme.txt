@@ -1,0 +1,5 @@
+to work you needs
+lxml angin
+and
+this file:
+https://github.com/mskuzn/pygexf/blob/master/gexf/gexf.py
