@@ -1,5 +1,5 @@
 to work you needs
+postgres db,
 lxml angin
 and
-this file:
-https://github.com/mskuzn/pygexf/blob/master/gexf/gexf.py
+this file: https://github.com/mskuzn/pygexf/blob/master/gexf/gexf.py
